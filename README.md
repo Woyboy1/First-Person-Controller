@@ -13,3 +13,4 @@ This simple FPC is a mini first-person controller that is neatly organized and e
 - Namespace-driven architecture
 - Editor tools for organization and debugging
 
+<img width="1078" height="517" alt="demoscene" src="https://github.com/user-attachments/assets/c604e564-14eb-4ab8-b649-fc66f8f6f9cc" />
