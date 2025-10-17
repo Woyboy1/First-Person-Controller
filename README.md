@@ -3,8 +3,8 @@
 
 ## Unity Version 6000.0.45f1 + Cinemachine 3 Upgrade
 
-### verview
-This simple FPC is a mini first person controller that is neatly organized and is easily customizable. There is nothing complex about this controller other than having the basics of first person movement, camera controls, and a simple interaction system. The biggest thing about this package is that this controller works directly with the Cinemachine package. This package also includes a flexible interactable system that allows the player to pick up and object and drop it. This is a very simple yet strong system I made to quickly prototype your projects
+### Overview
+This simple FPC is a mini first-person controller that is neatly organized and easily customizable. There is nothing complex about this controller other than having the basics of first-person movement, camera controls, and a simple interaction system. The biggest thing about this package is that this controller works directly with the Cinemachine package. This package also includes a flexible, interactable system that allows the player to pick up an object and drop it. This is a very simple yet strong system I made to quickly prototype your projects
 
 ## 🚀 Features
 - First-person movement with sprint and jump
