@@ -13,4 +13,11 @@ This simple FPC is a mini first-person controller that is neatly organized and e
 - Namespace-driven architecture
 - Editor tools for organization and debugging
 
+## 📁 How to Setup
+Setting up the FPC Package is very simple. Simply download the UnityPackage listed on GitHub or download all the files manually and import them into your Unity Project. This package only requires Cinemachine 3 as a dependency and does not change any project settings.
+
+Copy the Player Controller prefab from the scene or drag it from the Prefabs folder. Nothing needs to be assigned since all the fields are assigned for you. 
+
+Create 2 layers in your project labeled “Interactable” and “Ground” as the scripts use these references. Automatically, the controller should assign the LayerMasks itself. But if it hasn’t, please look at PlayerMovement.cs and PlayerInteractionController.cs
+
 <img width="1078" height="517" alt="demoscene" src="https://github.com/user-attachments/assets/c604e564-14eb-4ab8-b649-fc66f8f6f9cc" />
